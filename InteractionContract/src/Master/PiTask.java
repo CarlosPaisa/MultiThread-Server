@@ -2,7 +2,7 @@ package Master;
 import java.io.Serializable;
 /**
  *
- * @author carlo
+ * @author Carlos Arango
  */
 public class PiTask implements Task, Serializable {
     
